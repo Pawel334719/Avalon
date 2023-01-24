@@ -1,5 +1,10 @@
 # Avalon
 
+The idea was to create my favourite game more portable than it is. And right now I can take it always with me on my phone and play with friends without carrying something or sharing and connecting anything.
+
+
+
+
 This software is the work of fan of the Avalon board game. It is not intended to replace nor compete with the original board game,
 This software is provided as is, without warranty of any kind, express or implied.
 
