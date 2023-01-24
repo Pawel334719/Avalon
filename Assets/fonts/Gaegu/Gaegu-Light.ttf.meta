@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff9c3f56fbaf03c42bb15ea314a8df1a
+timeCreated: 1532251653
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gaegu Light
+  fontNames:
+  - Gaegu Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
